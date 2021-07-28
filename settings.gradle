@@ -1,0 +1,5 @@
+rootProject.name = "UserList"
+include ':app'
+include ':data'
+include ':core'
+include ':domain'

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UserList</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="users_title">Пользователи</string>
+    <string name="about_app_title">О программе</string>
+    <string name="full_name_placeholder">%s %s</string>
+    <string name="about_app_text">Тестовое задание для Rentateam</string>
+    <string name="refresh">Повторить</string>
+    <string name="something_went_wrong_please_try_again">Что-то пошло не так, пожалуйста повторите</string>
+</resources>
